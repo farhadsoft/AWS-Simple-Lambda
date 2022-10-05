@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+HWK8t48kqP7jI0oHlP9Iy48Q7d7r6EXCChmWdk5GQlTcI970AJIARGmz9KJbiK+g5hbFhYlOz8B9tvQomYuA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\AWS-Simple-Lambda\\src\\SimpleHTTPAPI\\SimpleHTTPAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farha\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\farha\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\farha\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\farha\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

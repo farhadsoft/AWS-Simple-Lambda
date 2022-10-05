@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHTTPAPI", "src\SimpleHTTPAPI\SimpleHTTPAPI.csproj", "{4B318F52-CED3-46D8-9EE5-07276F056654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreWebAPI", "ASPNETCoreWebAPI\ASPNETCoreWebAPI.csproj", "{A82D5E2E-D3CA-4629-B01F-43B33B8E707C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreWebAPI", "src\ASPNETCoreWebAPI\ASPNETCoreWebAPI.csproj", "{A82D5E2E-D3CA-4629-B01F-43B33B8E707C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

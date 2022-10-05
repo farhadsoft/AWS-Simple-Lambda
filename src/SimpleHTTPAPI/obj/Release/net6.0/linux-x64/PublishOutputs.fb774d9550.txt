@@ -1,0 +1,7 @@
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\SimpleHTTPAPI.deps.json
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\SimpleHTTPAPI.runtimeconfig.json
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\SimpleHTTPAPI.pdb
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\GitHub\AWS-Simple-Lambda\src\SimpleHTTPAPI\bin\Release\net6.0\publish\SimpleHTTPAPI.dll

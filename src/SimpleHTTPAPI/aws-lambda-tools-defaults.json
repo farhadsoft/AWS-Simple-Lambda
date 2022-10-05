@@ -5,12 +5,13 @@
     "dotnet lambda help",
     "All the command line options for the Lambda command can be specified in this file."
   ],
-  "profile": "",
-  "region": "",
+  "profile": "dotnet",
+  "region": "us-east-2",
   "configuration": "Release",
-  "function-architecture": "x86_64",
   "function-runtime": "dotnet6",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "SimpleHTTPAPI::SimpleHTTPAPI.Function::FunctionHandler"
+  "function-handler": "SimpleHTTPAPI::SimpleHTTPAPI.Function::FunctionHandler",
+  "function-url-enable": true,
+  "function-name": "SimpleHTTPAPI"
 }
